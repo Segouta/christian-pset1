@@ -15,8 +15,11 @@ The interface looks as follows:
 
 ![plaatje](https://github.com/Segouta/christian-pset1/blob/master/doc/mrpotatohead%20(4).jpeg)
 ![plaatje](https://github.com/Segouta/christian-pset1/blob/master/doc/mrpotatohead%20(1).jpeg)
-
+##
 And when te transition is made from portrait mode into landscape mode, the changes will be preserved:
+
 ![plaatje](https://github.com/Segouta/christian-pset1/blob/master/doc/mrpotatohead%20(3).jpeg)
+
+Reshapes into:
 
 ![plaatje](https://github.com/Segouta/christian-pset1/blob/master/doc/mrpotatohead%20(2).jpeg)
