@@ -1,5 +1,5 @@
 Dit is een app
 
-![plaatje](C:\Users\Christian\Desktop\AppStudio\christian-pset1\doc)
+![plaatje](https://github.com/Segouta/christian-pset1/blob/master/doc/mrpotatohead%20(1).jpeg)
 
 hoi dit is een app.
